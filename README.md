@@ -1,4 +1,4 @@
-![logo](https://github.com/marcossbc/marcossbc/blob/main/WhatsApp%20Image%202025-06-18%20at%2017.23.58_e12ddbfb.jpg)
+![logo](https://github.com/marcossbc/marcossbc/blob/main/WhatsApp%20Image%202025-06-18%20at%2017.45.14_0e4ea21c.jpg)
 
 <h1 align="center">Hi 👋, I'm Burhaan Cabdulaahi</h1>
 <h3 align="center">A passionate fullstack developer from Soomalia</h3>
