@@ -36,10 +36,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> -->
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcossbc&show_icons=true&locale=en&layout=compact" alt="marcossbc" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcossbc&show_icons=true&locale=en&layout=compact" alt="marcossbc" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcossbc&show_icons=true&locale=en" alt="marcossbc" /></p>
 
