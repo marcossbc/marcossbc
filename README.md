@@ -75,6 +75,16 @@
 
 <br>
 
+## 🕹️ Pacman Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical">
+    <img alt="GitHub Contribution Grid" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
+  </picture>
+</p>
+
+<br>
+
 ---
 <p align="center">
   👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=marcossbc&label=Views&color=00f2fe&style=flat-square" alt="Profile Views" />
