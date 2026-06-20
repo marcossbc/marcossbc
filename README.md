@@ -58,11 +58,17 @@
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossbc&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+> 💡 **Xasuusin:** Qaybta `Current Streak` ee sawirka sare waxay si toos ah u xisaabinaysaa maalmaha xiriirka ah ee aad code push-gareyso. Haddii aad maalin ka tagto, nambarku wuxuu dib ugu laabanayaa 0!
+
+<br>
+
+## 📉 Core Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcossbc&show_icons=true&locale=en&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
@@ -71,32 +77,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcossbc&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="165" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=marcossbc&theme=radical&column=-1&row=1&margin-w=8&margin-h=8" height="165" alt="trophy graph" />
-</div>
-
-<br>
-
-## 📈 Activity & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcossbc&theme=react-dark&bg_color=0f172a&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<br>
-
-## 🕹️ Pacman Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical">
-    <img alt="GitHub Contribution Grid" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
-  </picture>
-</p>
-
-<br>
-
 ---
 <p align="center">
-  👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=marcossbc&label=Views&color=00f2fe&style=flat-square" alt="marcossbc" />
+  👁️ Profile Views: <img src="https://komarev.com/ghpvc/?username=marcossbc&label=Views&color=00f2fe&style=flat-square" alt="Profile Views" />
 </p>
