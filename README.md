@@ -82,11 +82,11 @@
 </p>
 
 <br>
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:marcossbc880@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-sacdamamoud%40gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sadia-mahmoud" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Marcoss_bc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:marcossbc880@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-marcossbc880@gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/marcossbc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Marcoss_bc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/marcossbc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/marcoss" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/c/@dugsiiye" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
