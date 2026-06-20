@@ -82,11 +82,10 @@
 </p>
 
 <br>
-<br>
 
-## 🕹️ Contribution Graph
+## 🕹️ Contribution Graph (Alternative)
 <p align="center">
-  <img alt="GitHub Summary Cards" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
+  <img src="https://github-profile-summary-cards.github.io/api/cards/profile-details?username=marcossbc&theme=radical" width="100%" alt="GitHub Profile Summary" />
 </p>
 
 <br>
