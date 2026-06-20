@@ -75,6 +75,15 @@
 
 <br>
 
+## 📈 Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcossbc&theme=react-dark&bg_color=0f172a&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<br>
+<br>
+
 ## 🕹️ Contribution Graph
 <p align="center">
   <img alt="GitHub Summary Cards" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
