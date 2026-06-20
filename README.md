@@ -58,6 +58,13 @@
 
 <br>
 
+## 🏆 GitHub Badges & Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcossbc&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
+</p>
+
+<br>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -83,9 +90,9 @@
 
 <br>
 
-## 🕹️ Contribution Graph (Alternative)
+## 🔏 Random Dev Quote
 <p align="center">
-  <img src="https://github-profile-summary-cards.github.io/api/cards/profile-details?username=marcossbc&theme=radical" width="100%" alt="GitHub Profile Summary" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Programming Quote" />
 </p>
 
 <br>
