@@ -75,12 +75,9 @@
 
 <br>
 
-## 🕹️ Pacman Contribution Graph
+## 🕹️ Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical">
-    <img alt="GitHub Contribution Grid" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
-  </picture>
+  <img alt="GitHub Summary Cards" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
 </p>
 
 <br>
