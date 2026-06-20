@@ -78,9 +78,20 @@
 
 <br>
 
-## 🐍 Contribution Snake
+## 📈 Activity & Contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcossbc/marcossbc/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcossbc&theme=react-dark&bg_color=0f172a&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<br>
+
+## 🕹️ Pacman Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical">
+    <img alt="GitHub Contribution Grid" src="https://github-profile-summary-cards.verve.pro/api/cards/profile-details?username=marcossbc&theme=radical" width="100%">
+  </picture>
 </p>
 
 <br>
