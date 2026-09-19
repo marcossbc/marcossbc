@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Burhaan%20Cabdulaahi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Product%20Builder%20|%20AI%20%26%20Mobile%20Engineer&descAlignY=60"/>
 
 # 👨‍💻 Burhaan Cabdulaahi
@@ -93,3 +95,6 @@ Cross-Platform Optimization         ██████████████�
 Great digital solutions are built by combining strong architecture, smooth user experiences, and real-world problem solving.
 
 🚀 Learn • Build • Scale • Repeat
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</div>
