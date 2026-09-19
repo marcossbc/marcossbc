@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS&color=00f2fe&logo=github&logoColor=black"/>
   <img src="https://img.shields.io/github/repos/burhaancabdulaahi?style=for-the-badge&label=REPOSITORIES"/>
 </p>
 
@@ -58,7 +58,7 @@ mission:
 ⚡ Fun fact funny
 
 🛠️ Languages and Tools
-📊 GitHub Analytics
+🔥 GitHub Streak & Analytics
 📉 Core Stats
 📈 Activity & Contributions
 🌐 Connect With Me
