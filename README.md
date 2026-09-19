@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Burhaan%20Cabdulaahi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20•%20Product%20Builder%20•%20AI%20%26%20Mobile%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Burhaan%20Cabdulaahi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Product%20Builder%20|%20AI%20%26%20Mobile%20Engineer&descAlignY=60"/>
 
 # 👨‍💻 Burhaan Cabdulaahi
 
