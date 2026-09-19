@@ -1,27 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Burhaan%20Cabdulaahi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Product%20Builder%20|%20AI%20%26%20Mobile%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Burhaan%20Cabdulaahi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Product%20Builder%20%7C%20UI%2FUX%20Designer&descAlignY=60"/>
 
 # 👨‍💻 Burhaan Cabdulaahi
 
-### Full-Stack Developer • React & React Native • Node.js • Supabase • Mobile App Developer
+### Full-Stack Software Engineer • React Developer • React Native Developer • Product Builder
 
 <p align="center">
-  <a href="https://github.com/burhaancabdulaahi">
-    <img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&color=00f2fe&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/burhaancabdulaahi?tab=followers">
-    <img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&color=4facfe&label=FOLLOWERS" alt="Followers"/>
-  </a>
-  <a href="https://github.com/burhaancabdulaahi?tab=repositories">
-    <img src="https://img.shields.io/github/repos/burhaancabdulaahi?style=for-the-badge&color=000000&label=REPOSITORIES" alt="Repositories"/>
-  </a>
+
+<img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/repos/burhaancabdulaahi?style=for-the-badge&label=REPOSITORIES"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Burhaan+Cabdulaahi;Full-Stack+Software+Developer;React+%26+React+Native+Specialist;Building+Scalable+Web+%26+Mobile+Apps;Building+from+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Software-Engineer;Full-Stack+Software+Engineer;React+Developer;React+Native+Developer;UI%2FUX+Designer;Building+Scalable+Digital+Products"/>
 </p>
-
 </div>
 
 ---
@@ -32,64 +29,95 @@
 name: Burhaan Cabdulaahi
 
 role:
-  - Full-Stack Software Developer
-  - Web & Mobile App Developer
-  - Database Architect
+  - Full-Stack Software Engineer
+  - Mobile App Developer
+  - UI/UX Designer
   - Product Builder
 
 specialization:
-  - Full-Stack Web Applications
-  - Cross-Platform Mobile Apps
-  - Database Integration & Design
-  - AI Application Integration
+  - SaaS Applications
+  - Web Development
+  - Mobile Development
+  - Artificial Intelligence
+  - Data Science
 
 current_focus:
-  - Scalable Web Systems
-  - Custom SQL Schemas & Supabase Auth
-  - Vector Search & Multi-Agent Systems
-  - Modern UI/UX Interfaces
+  - Scalable Software Systems
+  - Product Design
+  - System Architecture
+  - AI-Powered Solutions
 
 mission:
-  Build accessible digital products and local service solutions that solve real-world problems.
-⚡ Tech Stack & Architecture
-🌐 Frontend & Mobile Development
-⚙️ Backend & APIs
-🗄️ Databases & Cloud Backend Services
-🤖 AI Engineering & DevOps Tools
-📊 Analytics & Impact
-📉 Core GitHub Metrics
+  Build products that solve real-world problems and create measurable value.
+⚡ Technology Stack
+Frontend
+Backend
+Mobile Development
+Databases
+Design & Productivity
+📊 GitHub Statistics
 🔥 Contribution Streak
-📈 Activity Overview
-🏆 Milestone Badges
-🐍 Contribution Grid Snake
-💼 Key Projects & Engineering Focus
-🏥 Xal-keena: A local service ecosystem connecting users with healthcare, education, freelancing, and community solutions.
-
-🏨 Hospital Management Systems: High-performance dashboard platforms handling real-time patient records, analytics, and hospital workflow.
-
-💊 Pharmacy Management Systems: Full-stack inventory and sales monitoring software built with Node.js, Express, and MongoDB.
-
-📱 Mobile Applications: Modern cross-platform iOS/Android apps built with React Native and Expo featuring dynamic theme systems and secure auth.
-
-🤖 AI Integration & RAG: Next-gen applications using OpenAI, Pinecone vector search, semantic reranking, and multi-agent workflows.
-
-🧠 Core Engineering Competencies
+📈 Activity Graph
+🏆 GitHub Trophies
+🐍 Contribution Snake
+📈 GitHub Overview
 Plaintext
-💻 Full-Stack Architecture   -> React, Next.js, Node.js, Express
-📱 Mobile Engineering        -> React Native, Expo, Cross-Platform UI
-🗄️ Database Management       -> PostgreSQL, MongoDB, Supabase, MySQL
-🔌 API Integration           -> RESTful APIs, Webhooks, Third-Party SDKs
-🤖 Artificial Intelligence   -> RAG, Vector Search, OpenAI Models
-🎨 UI/UX & Dynamic Themes    -> Clean Visuals, Dark Mode, Component Systems
-🎯 Current Goals & Progression
+⭐ Repository Stars      → Auto Updated
+👥 Followers            → Auto Updated
+📦 Repositories         → Auto Updated
+👁 Profile Views        → Live Counter
+🔥 Contribution Streak  → Live
+🏆 Achievements         → Live
+💼 Experience
+Throughout my development journey, I have worked on projects across multiple domains including:
+
+• SaaS Platforms
+
+• Business Management Systems
+
+• Mobile Applications
+
+• Property Technology Solutions
+
+• E-Commerce Platforms
+
+• Data Analytics Projects
+
+• AI-Powered Applications
+
+• Freelance & Personal Projects
+
+Most projects remain private during active development and refinement.
+
+🧠 Areas of Expertise
+Full-Stack Web Development
+
+Mobile App Development
+
+REST API Development
+
+UI/UX Design
+
+Software Architecture
+
+Product Development
+
+Database Design
+
+Data Science Fundamentals
+
+AI Integration
+
+🎯 2026 Goals
 Plaintext
-Build Scalable SaaS Products        ████████████████████ 100%
-Advanced System Architecture        ██████████████████░░  90%
-AI & Multi-Agent Systems            █████████████████░░░  85%
-Cross-Platform Optimization         ███████████████░░░░░  75%
-⌚ WakaTime Insights
-🌐 Let's Connect
+Build Production SaaS Products     ████████████████████ 100%
+Master System Design               ██████████████████░░ 90%
+Advanced React Native Development  █████████████████░░░ 85%
+AI & Machine Learning             ███████████████░░░░░ 75%
+Cloud & DevOps                    ████████████░░░░░░░░ 60%
+⌚ WakaTime Statistics
+🌐 Connect With Me
 💭 Philosophy
-Great digital solutions are built by combining strong architecture, smooth user experiences, and real-world problem solving.
+Great products emerge when engineering, design, and business thinking work together.
 
 🚀 Learn • Build • Scale • Repeat
