@@ -121,9 +121,3 @@ Cloud & DevOps                    ████████████░░░�
 Great products emerge when engineering, design, and business thinking work together.
 
 🚀 Learn • Build • Scale • Repeat
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossbc&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
