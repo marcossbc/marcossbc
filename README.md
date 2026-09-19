@@ -1,88 +1,212 @@
-<p align="center">
-  <img src="https://img.shields.io/github/followers/marcossbc?label=Followers&style=for-the-badge&color=00f2fe&logo=github&logoColor=black" alt="Followers">
-  <img src="https://img.shields.io/twitter/follow/marcossbc?label=Twitter&style=for-the-badge&color=4facfe&logo=twitter&logoColor=white" alt="Twitter">
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Burhaan+Cabdulaahi;A+Fullstack+Developer;Building+from+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Typing SVG" /></a>
-</p>
-
-<p align="left">
-  <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-
-## 💫 About Me
-
-- 🔭 I’m currently working on **Self**
-- 🌱 I’m currently learning **Dugsiiye**
-- 👯 I’m looking to collaborate on **Dugsiiye**
-- 💬 Ask me about **coming soon**
-- ⚡ Fun fact **funny**
-
-<br>
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/marcossbc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/marcoss" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/c/@dugsiiye" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.hackerrank.com/hackerbox" target="blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
-
-<br>
-
-## 🛠️ Languages and Tools
-
-<p align="left"> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a> 
-</p>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossbc&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
-## 📉 Core Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcossbc&show_icons=true&locale=en&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcossbc&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Burhaan%20Cabdulaahi&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20%26%20Mobile%20Engineer&descAlignY=60"/>
+
+👨‍💻 Burhaan Cabdulaahi
+
+Full-Stack Developer • React & React Native • Node.js • Supabase • Mobile App Developer
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/repos/burhaancabdulaahi?style=for-the-badge&label=REPOSITORIES"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Burhaan+Cabdulaahi;Full-Stack+Software+Developer;React+%26+React+Native+Developer;Building+Scalable+Web+%26+Mobile+Apps;Building+from+Somalia+%F0%9F%87%B8%F0%9F%87%B4"/>
+</p>
+
 </div>
 
-<br>
+🚀 About Me
 
-## 📈 Activity & Contributions
+name: Burhaan Cabdulaahi
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcossbc&theme=react-dark&bg_color=0f172a&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+role:
+  - Full-Stack Software Developer
+  - Web & Mobile App Developer
+  - Database Architect
+  - Product Builder
+
+specialization:
+  - Full-Stack Web Applications
+  - Cross-Platform Mobile Apps
+  - Database Integration & Design
+  - AI Application Integration
+
+current_focus:
+  - Scalable Web Systems
+  - Custom SQL Schemas & Supabase Auth
+  - Vector Search & Multi-Agent Systems
+  - Modern UI/UX Interfaces
+
+mission:
+  Build accessible digital products and local service solutions
+  that solve real-world problems.
+
+⚡ Technology Stack
+
+🌐 Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,reactnative,expo"/>
 </p>
 
-<br>
+⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
+</p>
+
+🗄️ Databases & Backend Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,firebase"/>
+</p>
+
+🤖 AI & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=openai,pinecone,git,github,vscode,postman,docker"/>
+</p>
+
+📊 GitHub Statistics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=burhaancabdulaahi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhaancabdulaahi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+🔥 Contribution Streak
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=burhaancabdulaahi&theme=tokyonight&hide_border=true"/>
+</div>
+
+📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=burhaancabdulaahi&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=burhaancabdulaahi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/burhaancabdulaahi/burhaancabdulaahi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+📈 GitHub Overview
+
+⭐ Repository Stars       → Auto Updated
+👥 Followers              → Auto Updated
+📦 Repositories           → Auto Updated
+👁 Profile Views          → Live Counter
+🔥 Contribution Streak   → Live
+🏆 Achievements           → Live
+
+💼 Projects & Focus
+
+Throughout my development journey, I have worked on projects across multiple domains including:
+
+🏥 Xal-keena
+
+A local service platform focused on connecting people with healthcare, education, freelancing, and other essential services.
+
+🏨 Hospital Management Systems
+
+Management dashboards for patient tracking, records, administration, and analytics.
+
+💊 Pharmacy Management Systems
+
+Full-stack pharmacy solutions built with modern backend technologies including Node.js, Express, MongoDB, and modern frontend frameworks.
+
+📱 Mobile Applications
+
+Cross-platform mobile applications built with React Native and Expo, including authentication, APIs, dynamic themes, and modern UI/UX.
+
+🤖 AI Integration
+
+AI-powered applications using technologies such as OpenAI, vector databases, semantic search, reranking, and AI SDKs.
+
+🧠 Areas of Expertise
+
+💻 Full-Stack Web Development
+
+⚛️ React & Next.js
+
+📱 React Native & Expo
+
+🟢 Node.js & Express
+
+🗄️ MongoDB & PostgreSQL
+
+🔥 Supabase
+
+🔌 REST API Design & Integration
+
+🤖 AI Application Integration
+
+🔎 Vector Search & RAG
+
+🧩 Multi-Agent Systems
+
+🎨 Modern UI/UX
+
+🌙 Dark Mode & Dynamic Themes
+
+📊 Data & Dashboard Systems
+
+🎯 Goals
+
+Build Scalable SaaS Products        ████████████████████ 100%
+Advanced System Architecture        ██████████████████░░  90%
+AI & Multi-Agent Systems            █████████████████░░░  85%
+Cross-Platform Optimization         ███████████████░░░░░  75%
+
+⌚ WakaTime Statistics
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</div>
+
 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:marcossbc880@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-marcossbc880@gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/marcossbc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Marcoss_bc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/marcossbc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/marcoss" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/c/@dugsiiye" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
+<div align="center">
+
+<a href="https://github.com/burhaancabdulaahi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+💭 Philosophy
+
+Great digital solutions are built by combining strong architecture, smooth user experiences, and real-world problem solving.
+
+<div align="center">
+
+🚀 Learn • Build • Scale • Repeat
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</div>
