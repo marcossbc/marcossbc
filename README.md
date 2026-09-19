@@ -7,18 +7,15 @@
 ### Full-Stack Software Engineer • React Developer • React Native Developer • Product Builder
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS"/>
-
-<img src="https://img.shields.io/github/repos/burhaancabdulaahi?style=for-the-badge&label=REPOSITORIES"/>
-
+  <img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/repos/burhaancabdulaahi?style=for-the-badge&label=REPOSITORIES"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Software-Engineer;Full-Stack+Software+Engineer;React+Developer;React+Native+Developer;UI%2FUX+Designer;Building+Scalable+Digital+Products"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Software-Engineer;Full-Stack+Software+Engineer;React+Developer;React+Native+Developer;UI%2FUX+Designer;Building+Scalable+Digital+Products"/>
 </p>
+
 </div>
 
 ---
@@ -49,75 +46,19 @@ current_focus:
 
 mission:
   Build products that solve real-world problems and create measurable value.
-⚡ Technology Stack
-Frontend
-Backend
-Mobile Development
-Databases
-Design & Productivity
-📊 GitHub Statistics
-🔥 Contribution Streak
-📈 Activity Graph
-🏆 GitHub Trophies
-🐍 Contribution Snake
-📈 GitHub Overview
-Plaintext
-⭐ Repository Stars      → Auto Updated
-👥 Followers            → Auto Updated
-📦 Repositories         → Auto Updated
-👁 Profile Views        → Live Counter
-🔥 Contribution Streak  → Live
-🏆 Achievements         → Live
-💼 Experience
-Throughout my development journey, I have worked on projects across multiple domains including:
+💫 Quick Overview
+🔭 I’m currently working on Self
 
-• SaaS Platforms
+🌱 I’m currently learning Dugsiiye
 
-• Business Management Systems
+👯 I’m looking to collaborate on Dugsiiye
 
-• Mobile Applications
+💬 Ask me about coming soon
 
-• Property Technology Solutions
+⚡ Fun fact funny
 
-• E-Commerce Platforms
-
-• Data Analytics Projects
-
-• AI-Powered Applications
-
-• Freelance & Personal Projects
-
-Most projects remain private during active development and refinement.
-
-🧠 Areas of Expertise
-Full-Stack Web Development
-
-Mobile App Development
-
-REST API Development
-
-UI/UX Design
-
-Software Architecture
-
-Product Development
-
-Database Design
-
-Data Science Fundamentals
-
-AI Integration
-
-🎯 2026 Goals
-Plaintext
-Build Production SaaS Products     ████████████████████ 100%
-Master System Design               ██████████████████░░ 90%
-Advanced React Native Development  █████████████████░░░ 85%
-AI & Machine Learning             ███████████████░░░░░ 75%
-Cloud & DevOps                    ████████████░░░░░░░░ 60%
-⌚ WakaTime Statistics
+🛠️ Languages and Tools
+📊 GitHub Analytics
+📉 Core Stats
+📈 Activity & Contributions
 🌐 Connect With Me
-💭 Philosophy
-Great products emerge when engineering, design, and business thinking work together.
-
-🚀 Learn • Build • Scale • Repeat
