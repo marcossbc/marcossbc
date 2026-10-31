@@ -46,6 +46,8 @@
 | **Frontend** | ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark) |
 | **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express&theme=dark) |
 | **Databases** | ![](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark) |
+| **AI & APIs** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=0b1026) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logoColor=white&labelColor=0b1026) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logoColor=white&labelColor=0b1026) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-D4A27F?style=flat-square&logo=anthropic&logoColor=white&labelColor=0b1026) ![Google API](https://img.shields.io/badge/Google_API-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0b1026) |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0b1026) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0b1026) ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white&labelColor=0b1026) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0b1026) |
 | **Design & Tools** | ![](https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark) |
 
 ---
@@ -69,12 +71,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=burhaancabdulaahi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhaancabdulaahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&text_color=d8e0ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossbc&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=burhaancabdulaahi&theme=tokyonight&hide_border=true&background=0b1026&ring=7c5cff&fire=ff4ecd&currStreakLabel=00f7ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=d8e0ff&dates=8892bf" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=burhaancabdulaahi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhaancabdulaahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&text_color=d8e0ff"/>
 
 <br>
 
