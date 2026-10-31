@@ -21,9 +21,6 @@
 </div>
 
 ---
-
-## 🚀 About
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=700&lines=$+whoami+%E2%86%92+Burhaan+Cabdulaahi;$+role+%E2%86%92+Full-Stack+Engineer+%2B+UI%2FUX+Designer;$+location+%E2%86%92+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Terminal intro"/>
@@ -54,16 +51,14 @@
 
 ## 💼 Featured Work
 
-<div align="center">
+| Project | Description | Stack |
+|:---|:---|:---|
+| **🛒 Magaca Mashruuca 1** | Qeex gaaban: maxay tahay, yaa isticmaala, maxay xallisaa. | ![](https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark) |
+| **📱 Magaca Mashruuca 2** | Mobile app oo loogu talagalay... | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
+| **📊 Magaca Mashruuca 3** | Admin dashboard oo leh analytics iyo reports. | ![](https://skillicons.dev/icons?i=nextjs,tailwind,mysql&theme=dark) |
+| **🎨 Magaca Mashruuca 4** | UI/UX design iyo design system. | ![](https://skillicons.dev/icons?i=figma&theme=dark) |
 
-<a href="https://github.com/burhaancabdulaahi/PROJECT-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff" /></a>
-<a href="https://github.com/burhaancabdulaahi/PROJECT-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=ff4ecd&icon_color=7c5cff&text_color=d8e0ff" /></a>
-<a href="https://github.com/burhaancabdulaahi/PROJECT-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-3&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff" /></a>
-<a href="https://github.com/burhaancabdulaahi/PROJECT-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-4&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=ff4ecd&icon_color=7c5cff&text_color=d8e0ff" /></a>
-
-</div>
-
-<sub>Interface mockups use illustrative sample data. Most client work stays private during active development; walkthroughs and case studies on request.</sub>
+<sub>Most client work stays private during active development; walkthroughs and case studies on request.</sub>
 
 ---
 
