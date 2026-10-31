@@ -1,58 +1,130 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Burhaan%20Cabdulaahi&fontSize=48&fontColor=00f2fe&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=16&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1026,50:7c5cff,100:00f7ff&text=Burhaan%20Cabdulaahi&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Burhaan;React+%26+React+Native+Developer;Building+from+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=860&height=50&lines=Building+scalable+digital+products;React+%C2%B7+React+Native+%C2%B7+Next.js+%C2%B7+Node.js;From+design+system+to+production+deploy;Based+in+Somalia+%F0%9F%87%B8%F0%9F%87%B4+%E2%80%94+shipping+worldwide" alt="Typing animation"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=for-the-badge&label=VIEWS&color=00f2fe"/>
-<img src="https://img.shields.io/github/followers/burhaancabdulaahi?style=for-the-badge&label=FOLLOWERS&color=4facfe&logo=github&logoColor=white"/>
+[![About](https://img.shields.io/badge/ABOUT-0b1026?style=for-the-badge&labelColor=0b1026&color=00f7ff)](#-about)
+[![Stack](https://img.shields.io/badge/STACK-0b1026?style=for-the-badge&labelColor=0b1026&color=7c5cff)](#-tech-stack)
+[![Work](https://img.shields.io/badge/WORK-0b1026?style=for-the-badge&labelColor=0b1026&color=ff4ecd)](#-featured-work)
+[![Process](https://img.shields.io/badge/PROCESS-0b1026?style=for-the-badge&labelColor=0b1026&color=00f7ff)](#-how-i-work)
+[![Contact](https://img.shields.io/badge/CONTACT-0b1026?style=for-the-badge&labelColor=0b1026&color=7c5cff)](#-lets-build)
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=burhaancabdulaahi&style=flat-square&label=PROFILE+VIEWS&color=7c5cff&labelColor=0b1026)
+![Followers](https://img.shields.io/github/followers/burhaancabdulaahi?style=flat-square&label=FOLLOWERS&color=00f7ff&labelColor=0b1026)
+![Stars](https://img.shields.io/github/stars/burhaancabdulaahi?style=flat-square&label=STARS&color=ff4ecd&labelColor=0b1026)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/burhaancabdulaahi&query=$.public_repos&label=REPOS&style=flat-square&color=2bff88&labelColor=0b1026)
 
 </div>
 
 ---
 
-### 🚀 About Me
-
-- 👨‍💻 Full-Stack Engineer: **React, Next.js, React Native & Node.js**
-- 🎨 UI/UX Designer oo dhisa interfaces nadiif ah
-- 🌍 Ka shaqeeya **Somalia** 🇸🇴
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,tailwind,mongodb,mysql,git,figma&perline=11" alt="skills" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=burhaancabdulaahi&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=00F2FE&fire=FF6B35&currStreakLabel=00F2FE" alt="GitHub Streak" />
-</p>
-
----
-
-### 📊 Stats
+## 🚀 About
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=burhaancabdulaahi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhaancabdulaahi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=700&lines=$+whoami+%E2%86%92+Burhaan+Cabdulaahi;$+role+%E2%86%92+Full-Stack+Engineer+%2B+UI%2FUX+Designer;$+location+%E2%86%92+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Terminal intro"/>
+
+</div>
+
+<br>
+
+| **🛠 Engineering** | **🎨 Design** | **🧠 Product** |
+|:---|:---|:---|
+| Full-stack web, cross-platform mobile, REST APIs, database design and system architecture. | UI/UX research, Figma prototyping, design systems and clean interfaces. | Turning ideas into scalable digital products, from MVP to production. |
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Tools |
+|:---|:---|
+| **Mobile** | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
+| **Frontend** | ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark) |
+| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express&theme=dark) |
+| **Databases** | ![](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark) |
+| **Design & Tools** | ![](https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark) |
+
+---
+
+## 💼 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/burhaancabdulaahi/PROJECT-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff" /></a>
+<a href="https://github.com/burhaancabdulaahi/PROJECT-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=ff4ecd&icon_color=7c5cff&text_color=d8e0ff" /></a>
+<a href="https://github.com/burhaancabdulaahi/PROJECT-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-3&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff" /></a>
+<a href="https://github.com/burhaancabdulaahi/PROJECT-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burhaancabdulaahi&repo=PROJECT-4&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=ff4ecd&icon_color=7c5cff&text_color=d8e0ff" /></a>
+
+</div>
+
+<sub>Interface mockups use illustrative sample data. Most client work stays private during active development; walkthroughs and case studies on request.</sub>
+
+---
+
+## ⚙️ How I Work
+
+**⚙️ Engineering principles**
+
+- **Design-system first.** Tokens and components before screens, so products stay consistent as they grow.
+- **Hand-crafted code.** Every line is understood and owned.
+- **Ship small, measure, refine.** Working increments beat long plans.
+- **Security and data modelling up front.** Auth, roles and schema are decided early.
+
+**📦 What I can deliver**
+
+- SaaS platforms and business management systems
+- Marketplaces and e-commerce
+- Cross-platform mobile apps (React Native + Node.js API)
+- Admin dashboards, analytics and reporting
+- Brand-aligned UI/UX and design systems
+
+**📈 Currently levelling up**
+
+- Cloud and DevOps (CI/CD, containers, deployment pipelines)
+- Advanced system design
+- Applied machine learning
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=burhaancabdulaahi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0b1026&title_color=00f7ff&icon_color=7c5cff&text_color=d8e0ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhaancabdulaahi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026&title_color=00f7ff&text_color=d8e0ff"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=burhaancabdulaahi&theme=tokyonight&hide_border=true&background=0b1026&ring=7c5cff&fire=ff4ecd&currStreakLabel=00f7ff"/>
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=burhaancabdulaahi&theme=tokyo-night&hide_border=true&bg_color=0b1026&color=00f7ff&line=7c5cff&point=ff4ecd&area=true"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=burhaancabdulaahi&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
+
 </div>
 
 ---
 
-### 🌐 Connect
+## 🤝 Let's Build
 
-<p align="center">
-  <a href="mailto:marcossbc880@gmail.com"><img src="https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/marcossbc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/marcossbc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/@dugsiiye"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+**Have a product idea, a system to modernise, or an app to ship?**
+
+<p>
+  <a href="mailto:marcossbc880@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-marcossbc880%40gmail.com-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026"/></a>
+  <a href="https://www.linkedin.com/in/marcossbc"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/marcossbc"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/marcoss"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/@dugsiiye"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/burhaancabdulaahi"><img src="https://img.shields.io/badge/GitHub-burhaancabdulaahi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1026,50:7c5cff,100:00f7ff&section=footer&text=Learn%20%C2%B7%20Build%20%C2%B7%20Scale%20%C2%B7%20Repeat&fontSize=20&fontColor=ffffff&fontAlignY=70"/>
