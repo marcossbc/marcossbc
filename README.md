@@ -9,7 +9,6 @@
 [![About](https://img.shields.io/badge/ABOUT-0b1026?style=for-the-badge&labelColor=0b1026&color=00f7ff)](#-about)
 [![Stack](https://img.shields.io/badge/STACK-0b1026?style=for-the-badge&labelColor=0b1026&color=7c5cff)](#-tech-stack)
 [![Work](https://img.shields.io/badge/WORK-0b1026?style=for-the-badge&labelColor=0b1026&color=ff4ecd)](#-featured-work)
-[![Process](https://img.shields.io/badge/PROCESS-0b1026?style=for-the-badge&labelColor=0b1026&color=00f7ff)](#-how-i-work)
 [![Contact](https://img.shields.io/badge/CONTACT-0b1026?style=for-the-badge&labelColor=0b1026&color=7c5cff)](#-lets-build)
 
 <br>
@@ -66,31 +65,6 @@
 
 ---
 
-## ⚙️ How I Work
-
-**⚙️ Engineering principles**
-
-- **Design-system first.** Tokens and components before screens, so products stay consistent as they grow.
-- **Hand-crafted code.** Every line is understood and owned.
-- **Ship small, measure, refine.** Working increments beat long plans.
-- **Security and data modelling up front.** Auth, roles and schema are decided early.
-
-**📦 What I can deliver**
-
-- SaaS platforms and business management systems
-- Marketplaces and e-commerce
-- Cross-platform mobile apps (React Native + Node.js API)
-- Admin dashboards, analytics and reporting
-- Brand-aligned UI/UX and design systems
-
-**📈 Currently levelling up**
-
-- Cloud and DevOps (CI/CD, containers, deployment pipelines)
-- Advanced system design
-- Applied machine learning
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -100,7 +74,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=burhaancabdulaahi&theme=tokyonight&hide_border=true&background=0b1026&ring=7c5cff&fire=ff4ecd&currStreakLabel=00f7ff"/>
+<img src="https://streak-stats.demolab.com/?user=burhaancabdulaahi&theme=tokyonight&hide_border=true&background=0b1026&ring=7c5cff&fire=ff4ecd&currStreakLabel=00f7ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=d8e0ff&dates=8892bf" alt="GitHub Streak"/>
 
 <br>
 
