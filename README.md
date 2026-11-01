@@ -21,6 +21,9 @@
 </div>
 
 ---
+
+## 🚀 About
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=700&lines=$+whoami+%E2%86%92+Burhaan+Cabdulaahi;$+role+%E2%86%92+Full-Stack+Engineer+%2B+UI%2FUX+Designer;$+location+%E2%86%92+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Terminal intro"/>
@@ -53,10 +56,10 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| **🛒 Magaca Mashruuca 1** | Qeex gaaban: maxay tahay, yaa isticmaala, maxay xallisaa. | ![](https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark) |
-| **📱 Magaca Mashruuca 2** | Mobile app oo loogu talagalay... | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
-| **📊 Magaca Mashruuca 3** | Admin dashboard oo leh analytics iyo reports. | ![](https://skillicons.dev/icons?i=nextjs,tailwind,mysql&theme=dark) |
-| **🎨 Magaca Mashruuca 4** | UI/UX design iyo design system. | ![](https://skillicons.dev/icons?i=figma&theme=dark) |
+| **🛒 Project Name 1** | Short description: what it is, who uses it, and what problem it solves. | ![](https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark) |
+| **📱 Project Name 2** | Mobile app built for... | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
+| **📊 Project Name 3** | Admin dashboard with analytics and reports. | ![](https://skillicons.dev/icons?i=nextjs,tailwind,mysql&theme=dark) |
+| **🎨 Project Name 4** | UI/UX design and design system. | ![](https://skillicons.dev/icons?i=figma&theme=dark) |
 
 <sub>Most client work stays private during active development; walkthroughs and case studies on request.</sub>
 
