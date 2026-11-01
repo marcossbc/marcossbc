@@ -8,8 +8,7 @@
 
 [![About](https://img.shields.io/badge/ABOUT-0b1026?style=for-the-badge&labelColor=0b1026&color=00f7ff)](#-about)
 [![Stack](https://img.shields.io/badge/STACK-0b1026?style=for-the-badge&labelColor=0b1026&color=7c5cff)](#-tech-stack)
-[![Work](https://img.shields.io/badge/WORK-0b1026?style=for-the-badge&labelColor=0b1026&color=ff4ecd)](#-featured-work)
-[![Contact](https://img.shields.io/badge/CONTACT-0b1026?style=for-the-badge&labelColor=0b1026&color=7c5cff)](#-lets-build)
+[![Contact](https://img.shields.io/badge/CONTACT-0b1026?style=for-the-badge&labelColor=0b1026&color=ff4ecd)](#-lets-build)
 
 <br>
 
@@ -49,19 +48,6 @@
 | **AI & APIs** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=0b1026) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logoColor=white&labelColor=0b1026) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logoColor=white&labelColor=0b1026) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-D4A27F?style=flat-square&logo=anthropic&logoColor=white&labelColor=0b1026) ![Google API](https://img.shields.io/badge/Google_API-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0b1026) |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0b1026) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0b1026) ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white&labelColor=0b1026) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0b1026) |
 | **Design & Tools** | ![](https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark) |
-
----
-
-## 💼 Featured Work
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| **🛒 Project Name 1** | Short description: what it is, who uses it, and what problem it solves. | ![](https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark) |
-| **📱 Project Name 2** | Mobile app built for... | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
-| **📊 Project Name 3** | Admin dashboard with analytics and reports. | ![](https://skillicons.dev/icons?i=nextjs,tailwind,mysql&theme=dark) |
-| **🎨 Project Name 4** | UI/UX design and design system. | ![](https://skillicons.dev/icons?i=figma&theme=dark) |
-
-<sub>Most client work stays private during active development; walkthroughs and case studies on request.</sub>
 
 ---
 
