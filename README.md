@@ -33,7 +33,7 @@
 
 | **🛠 Engineering** | **🎨 Design** | **🧠 Product** |
 |:---|:---|:---|
-| Full-stack web, cross-platform mobile, REST APIs, database design and system architecture. | UI/UX research, Figma prototyping, design systems and clean interfaces. | Turning ideas into scalable digital products, from MVP to production. |
+| Full-stack web, cross-platform mobile, REST APIs and AI API, database design and system architecture. | UI/UX research, Figma prototyping, design systems and clean interfaces. | Turning ideas into scalable digital products, from MVP to production. |
 
 ---
 
