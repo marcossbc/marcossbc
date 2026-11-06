@@ -31,9 +31,34 @@
 
 <br>
 
-| **🛠 Engineering** | **🎨 Design** | **🧠 Product** |
-|:---|:---|:---|
-| Full-stack web, cross-platform mobile, REST APIs and AI API, database design and system architecture. | UI/UX research, Figma prototyping, design systems and clean interfaces. | Turning ideas into scalable digital products, from MVP to production. |
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🛠 Engineering</h3>
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00f7ff" width="60%"/>
+      <p>Full-stack web, cross-platform mobile, REST APIs and AI APIs, database design and system architecture.</p>
+      <img src="https://img.shields.io/badge/Full--Stack-00f7ff?style=flat-square&labelColor=0b1026"/>
+      <img src="https://img.shields.io/badge/Mobile-00f7ff?style=flat-square&labelColor=0b1026"/>
+      <img src="https://img.shields.io/badge/APIs-00f7ff?style=flat-square&labelColor=0b1026"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🎨 Design</h3>
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7c5cff" width="60%"/>
+      <p>UI/UX research, Figma prototyping, design systems and clean interfaces.</p>
+      <img src="https://img.shields.io/badge/UI%2FUX-7c5cff?style=flat-square&labelColor=0b1026"/>
+      <img src="https://img.shields.io/badge/Figma-7c5cff?style=flat-square&labelColor=0b1026"/>
+      <img src="https://img.shields.io/badge/Design_Systems-7c5cff?style=flat-square&labelColor=0b1026"/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🧠 Product</h3>
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff4ecd" width="60%"/>
+      <p>Turning ideas into scalable digital products, from MVP to production.</p>
+      <img src="https://img.shields.io/badge/MVP-ff4ecd?style=flat-square&labelColor=0b1026"/>
+      <img src="https://img.shields.io/badge/Scalable-ff4ecd?style=flat-square&labelColor=0b1026"/>
+      <img src="https://img.shields.io/badge/Production-ff4ecd?style=flat-square&labelColor=0b1026"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,4 +112,4 @@
   <a href="https://github.com/burhaancabdulaahi"><img src="https://img.shields.io/badge/GitHub-burhaancabdulaahi-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1026,50:7c5cff,100:00f7ff&section=footer&text=Learn%20%C2%B7%20Build%20%C2%B7%20Scale%20%C2%B7%20Repeat&fontSize=20&fontColor=ffffff&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0b1026,50:7c5cff,100:00f7ff&section=footer&text=Learn%20%C2%B7%20Build%20%C2%B7%20Scale%20%C2%B7%20Repeat&fontSize=20&fontColor=ability&fontAlignY=70"/>
