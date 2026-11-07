@@ -31,35 +31,6 @@
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🛠 Engineering</h3>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00f7ff" width="60%"/>
-      <p>Full-stack web, cross-platform mobile, REST APIs and AI APIs, database design and system architecture.</p>
-      <img src="https://img.shields.io/badge/Full--Stack-00f7ff?style=flat-square&labelColor=0b1026"/>
-      <img src="https://img.shields.io/badge/Mobile-00f7ff?style=flat-square&labelColor=0b1026"/>
-      <img src="https://img.shields.io/badge/APIs-00f7ff?style=flat-square&labelColor=0b1026"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🎨 Design</h3>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7c5cff" width="60%"/>
-      <p>UI/UX research, Figma prototyping, design systems and clean interfaces.</p>
-      <img src="https://img.shields.io/badge/UI%2FUX-7c5cff?style=flat-square&labelColor=0b1026"/>
-      <img src="https://img.shields.io/badge/Figma-7c5cff?style=flat-square&labelColor=0b1026"/>
-      <img src="https://img.shields.io/badge/Design_Systems-7c5cff?style=flat-square&labelColor=0b1026"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🧠 Product</h3>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff4ecd" width="60%"/>
-      <p>Turning ideas into scalable digital products, from MVP to production.</p>
-      <img src="https://img.shields.io/badge/MVP-ff4ecd?style=flat-square&labelColor=0b1026"/>
-      <img src="https://img.shields.io/badge/Scalable-ff4ecd?style=flat-square&labelColor=0b1026"/>
-      <img src="https://img.shields.io/badge/Production-ff4ecd?style=flat-square&labelColor=0b1026"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠 Tech Stack
