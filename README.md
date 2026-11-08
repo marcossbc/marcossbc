@@ -37,7 +37,7 @@
 
 | Layer | Tools |
 |:---|:---|
-| **Mobile** | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
+| **Mobiles** | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
 | **Frontend** | ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark) |
 | **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express&theme=dark) |
 | **Databases** | ![](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark) |
