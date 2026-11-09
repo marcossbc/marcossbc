@@ -39,7 +39,7 @@
 |:---|:---|
 | **Mobiles** | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
 | **Frontend** | ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark) |
-| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express&theme=dark) |
+| **Backends** | ![](https://skillicons.dev/icons?i=nodejs,express&theme=dark) |
 | **Databases** | ![](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark) |
 | **AI & APIs** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=0b1026) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logoColor=white&labelColor=0b1026) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logoColor=white&labelColor=0b1026) ![Anthropic API](https://img.shields.io/badge/Anthropic_API-D4A27F?style=flat-square&logo=anthropic&logoColor=white&labelColor=0b1026) ![Google API](https://img.shields.io/badge/Google_API-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0b1026) |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0b1026) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0b1026) ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white&labelColor=0b1026) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=0b1026) |
