@@ -33,9 +33,9 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 
-| Layer | Tools |
+| Layers | Tools |
 |:---|:---|
 | **Mobiles** | ![](https://skillicons.dev/icons?i=react,firebase&theme=dark) |
 | **Frontend** | ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark) |
@@ -70,7 +70,7 @@
 
 ---
 
-## 🤝 Let's Build ⭐⭐⭐⭐⭐
+## 🤝 Let's Build ⭐
 
 **Have a product idea, a system to modernise, or an app to ship?**
 
