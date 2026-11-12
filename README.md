@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytic
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ## 🤝 Let's Build ⭐
 
-**Have a product idea, a system to modernise, or an app to ship?**
+**Have a product idea, a system to modernise, or an app to ships?**
 
 <p>
   <a href="mailto:marcossbc880@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-marcossbc880%40gmail.com-00f7ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1026"/></a>
